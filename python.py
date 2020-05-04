@@ -63,6 +63,14 @@ def foo(x):
 foo([1,2,3]) # 1 2 3 3
 
 """ 
+@ Decorator
+"""
+# https://zhuanlan.zhihu.com/p/22810357
+# https://stackoverflow.com/questions/17330160/how-does-the-property-decorator-work
+
+
+
+""" 
 @ Objected Oriented Programming
 """
 
